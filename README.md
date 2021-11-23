@@ -17,7 +17,7 @@ test_subject = "S10" # the subject to be used as test set [S1, S2, ..., S10]
 ```
 
 ## Visualization of the data
-visualize_UML-HAR20.ipynb shows how to simply read the data.
+The file `visualize_UML-HAR20.ipynb` shows how to simply read the data.
 
 ## References
 
