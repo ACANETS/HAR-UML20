@@ -1,6 +1,6 @@
 # HAR-UML20
 
-This repository contains the collected wearable data from 10 participants at University of Massachusetts Lowell. 
+This repository contains the collected wearable data from 10 participants at University of Massachusetts Lowell. [This paper](https://ieeexplore.ieee.org/abstract/document/9098923) describes the dataset.
 
 ## Read the data
 Dataset can be loaded in python script using read_dataset.py
